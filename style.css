@@ -1,9 +1,21 @@
 h1 {
   color: #c0c0c0;
+  text-align: center;
 }
 p{
   color: #990000;
+  text-align: center;
 }
 h2{
  color: #c0c0c0;
+ text-align: center;
+}
+img{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h3{
+  color:#800000;
+  text-align: center;
 }
